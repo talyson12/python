@@ -1,0 +1,5 @@
+print('======= DESAFIO 02 =======')
+dia = input('Dia: ')
+mês = input('Mês: ')
+ano = input('Ano: ')
+print(f'Você nasceu dia \033[1:31m{dia}\033[m no mês de \033[4:34m{mês}\033[m no ano de \033[7m{ano}\033[m, certo?')

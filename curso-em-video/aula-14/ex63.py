@@ -1,0 +1,12 @@
+n = int(input('Quantos temros você quer mostrar? '))
+t1 = 0
+t2 = 1
+cont = 3
+print(t1, ' -> ', t2, end=' -> ')
+while cont <= n:
+    t3 = t2 + t1
+    print(t3, end='')
+    print(' -> ' if cont < n else '', end='')
+    cont += 1
+    t1 = t2
+    t2 = t3
