@@ -3,8 +3,6 @@
 ### Principais fontes de conteúdo
 
 * [Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) (Gustavo Guanabara)
-=======
-# python
 
 #### Pequenos exercícios praticos em .py (quando eu ainda estudava ;-;)
 
