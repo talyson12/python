@@ -1,0 +1,11 @@
+no terminal do vscode:
+ python -m venv venv
+ faça o segundo comando nos comandos do cmd
+ .\venv\Scripts\activate
+ (venv) pip install django
+ (venv) django admin --version
+ (venv) django-admin startproject app .
+
+ no cmd:
+ Get-ExecutionPolicy (verifica a situação)
+ Set-ExecutionPolicy RemoteSigned (escolha letra A)
