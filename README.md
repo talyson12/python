@@ -3,6 +3,7 @@
 ### Principais fontes de conteúdo
 
 * [Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) (Gustavo Guanabara)
+* Faculade [FADESA](https://fadesa.edu.br/) (2º período de ADS)
 
 #### Pequenos exercícios praticos em .py (quando eu ainda estudava ;-;)
 
