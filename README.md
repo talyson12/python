@@ -6,6 +6,7 @@
 * Faculade [FADESA](https://fadesa.edu.br/) (2º período de ADS)
 
 #### Pequenos exercícios praticos em .py (quando eu ainda estudava ;-;)
+##### Edit.: voltei a estudar
 
 ###### Meus **contatos**
 
