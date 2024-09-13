@@ -5,7 +5,18 @@ no terminal do vscode:
  (venv) pip install django
  (venv) django admin --version
  (venv) django-admin startproject app .
+ (venv) python manage.py runserver 
+ control C
+ (venv) python manage.py makemigrations (atualização)
+ (venv) python manage.py migrate (atualização)
+ (venv) python manage.py createsuperuser
+ (venv) python manage.py start app
 
- no cmd:
+
+
+no cmd:
  Get-ExecutionPolicy (verifica a situação)
  Set-ExecutionPolicy RemoteSigned (escolha letra A)
+
+ chrome
+  
