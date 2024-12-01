@@ -1,4 +1,5 @@
 n = input('Digite algo: ')
+
 print(type(n))
 print(n.isnumeric()) # pode ser convertido para numérico
 print(n.isalpha()) # se é letra

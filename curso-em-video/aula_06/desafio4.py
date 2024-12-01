@@ -1,7 +1,0 @@
-valor = input('Digite um valor qualquer: ')
-print(f'==== Sobre {valor} ====')
-print('É um número:', valor.isnumeric())
-print('É uma letra:', valor.isalpha())
-print('É um alfanumérico:', valor.isalnum())
-print('É um número decimal:', valor.isdecimal())
-print('É a tecla espaço:', valor.isspace())

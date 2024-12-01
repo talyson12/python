@@ -1,3 +1,9 @@
+'''
+import this (filosofias do python)
+python --version (verifica a versão)
+
+'''
+
 print('Olá, mundo!')
-nome = input('Digite o seu nome: ')
-print('Bem vindo(a),',nome+'!')
+name = input('Digite o seu nome: ')
+print('Bem vindo(a),', name + '!')
